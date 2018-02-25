@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 
-<< Getting and Cleaning Data >>>
+Let's start .. 
 
 Course Project
 
